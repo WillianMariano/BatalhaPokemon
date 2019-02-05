@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Jogo>
+  <pokemon>
+    <nome>a</nome>
+    <resultado>Pokemon a ganhou a batalha</resultado>
+  </pokemon>
+  <pokemon>
+    <nome>b</nome>
+    <resultado>Pokemon a ganhou a batalha</resultado>
+  </pokemon>
+</Jogo>
